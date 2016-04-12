@@ -1,7 +1,7 @@
 <script>
-$(document).ready(function() {  
+$(document).ready(function(){  
  $('.col-sm-4').on('click'), function(){
- 	$(this).css('color', 'red');
+ 	$(this).col-sm-4('color', 'red');
  });
 </script>
 
